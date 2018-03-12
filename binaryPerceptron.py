@@ -1,16 +1,15 @@
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
 """
 Created on Tue Feb 27, 2018
-
-@author: amine
+Binary Perceptron
+@author: Amine Ait Mansour
 """
+
 from __future__ import division
 import numpy as np
 
 
-trainFile = "/Users/amine/.spyder/CA1data/train.data"
-testFile = "/Users/amine/.spyder/CA1data/test.data"
+trainFile = "Add train dataset path file HERE"
+testFile = "Add test dataset path file HERE"
 
 # This function returns an numpy array with the formatted data 
 # The formatted data are in a form of -1 and 1 for classVal1 and classVal 2 respectively
