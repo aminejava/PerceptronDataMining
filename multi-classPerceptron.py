@@ -1,6 +1,6 @@
 """
 Created on Mon Mar  5 12:24:05 2018
-
+Multi class perceptron
 @author:  Amine Ait Mansour
 """
 
